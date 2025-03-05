@@ -1,0 +1,1 @@
+Nexys4 DDR board FPGA part ID: xc7a100tcsg324-1
